@@ -1,0 +1,46 @@
+
+.one{
+    height:20%;
+    width:100%;
+    background-color: rgb(7, 0, 102);
+    color:rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.two{
+    height:500px;
+    width:100%;
+    
+}
+.three{
+    height:20%;
+    width:100%;
+    height:100px;
+    
+    
+}
+.p19{
+    height:40px;
+    width:160px;
+    background-color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+.five{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.four{
+    width:100%;
+}
+
+.main3{
+    display: flex;
+    flex-direction: row;
+}
